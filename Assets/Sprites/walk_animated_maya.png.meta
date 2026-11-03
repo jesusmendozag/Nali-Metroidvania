@@ -1,0 +1,483 @@
+fileFormatVersion: 2
+guid: 20e0afe8e0e287b409a2dfba9daaa060
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4124382205641751852
+    second: walk_animated_maya_0
+  - first:
+      213: -6914614075370102670
+    second: walk_animated_maya_1
+  - first:
+      213: -675276374171288757
+    second: walk_animated_maya_2
+  - first:
+      213: -3754263137136335939
+    second: walk_animated_maya_3
+  - first:
+      213: 5168104845704147928
+    second: walk_animated_maya_4
+  - first:
+      213: -1885366976268529673
+    second: walk_animated_maya_5
+  - first:
+      213: -1984748968719652410
+    second: walk_animated_maya_6
+  - first:
+      213: 6835608400410744813
+    second: walk_animated_maya_7
+  - first:
+      213: 7828526184829361713
+    second: walk_animated_maya_8
+  - first:
+      213: -4493634483230680393
+    second: walk_animated_maya_9
+  - first:
+      213: -2252669383218051322
+    second: walk_animated_maya_10
+  - first:
+      213: -5373911166328341629
+    second: walk_animated_maya_11
+  - first:
+      213: 5643153615043845965
+    second: walk_animated_maya_12
+  - first:
+      213: 1048135635205334116
+    second: walk_animated_maya_13
+  - first:
+      213: -3032352953568396877
+    second: walk_animated_maya_14
+  - first:
+      213: 5504311401106490779
+    second: walk_animated_maya_15
+  - first:
+      213: 2444366327047344800
+    second: walk_animated_maya_16
+  - first:
+      213: -7970951270942041136
+    second: walk_animated_maya_17
+  - first:
+      213: -7715189175802926045
+    second: walk_animated_maya_18
+  - first:
+      213: -1884711636442136874
+    second: walk_animated_maya_19
+  - first:
+      213: -6148978165439666614
+    second: walk_animated_maya_20
+  - first:
+      213: 1544473403736369220
+    second: walk_animated_maya_21
+  - first:
+      213: 4657163605248408999
+    second: walk_animated_maya_22
+  - first:
+      213: 2969172029267128102
+    second: walk_animated_maya_23
+  - first:
+      213: 2449805893970141139
+    second: walk_animated_maya_24
+  - first:
+      213: -6599334936211161190
+    second: walk_animated_maya_25
+  - first:
+      213: -1348525426934742378
+    second: walk_animated_maya_26
+  - first:
+      213: 4174889611022733257
+    second: walk_animated_maya_27
+  - first:
+      213: -4812703794308024573
+    second: walk_animated_maya_28
+  - first:
+      213: 4864641474063232857
+    second: walk_animated_maya_29
+  - first:
+      213: 6421129322413081600
+    second: walk_animated_maya_30
+  - first:
+      213: -8593558283163589446
+    second: walk_animated_maya_31
+  - first:
+      213: -2654111334502027870
+    second: walk_animated_maya_32
+  - first:
+      213: 803527522035271274
+    second: walk_animated_maya_33
+  - first:
+      213: -6797219357616237962
+    second: walk_animated_maya_34
+  - first:
+      213: -6789517330106125395
+    second: walk_animated_maya_35
+  - first:
+      213: -8143519698796766878
+    second: walk_animated_maya_36
+  - first:
+      213: -2522924806686443113
+    second: walk_animated_maya_37
+  - first:
+      213: 7514881685615705055
+    second: walk_animated_maya_38
+  - first:
+      213: -5196012690072071124
+    second: walk_animated_maya_39
+  - first:
+      213: 6278985824752186022
+    second: walk_animated_maya_40
+  - first:
+      213: 4754415395376288887
+    second: walk_animated_maya_41
+  - first:
+      213: 1484822363143171814
+    second: walk_animated_maya_42
+  - first:
+      213: 6940732895202138162
+    second: walk_animated_maya_43
+  - first:
+      213: -6440567942939861245
+    second: walk_animated_maya_44
+  - first:
+      213: -7090013708819259363
+    second: walk_animated_maya_45
+  - first:
+      213: 8142096182341759466
+    second: walk_animated_maya_46
+  - first:
+      213: -880306106214055516
+    second: walk_animated_maya_47
+  - first:
+      213: -3879685921774968606
+    second: walk_animated_maya_48
+  - first:
+      213: -6666500726780099694
+    second: walk_animated_maya_49
+  - first:
+      213: 6563770951385273957
+    second: walk_animated_maya_50
+  - first:
+      213: -519107399833626486
+    second: walk_animated_maya_51
+  - first:
+      213: -1882103549825175083
+    second: walk_animated_maya_52
+  - first:
+      213: 97233304551506031
+    second: walk_animated_maya_53
+  - first:
+      213: -2603944667654272288
+    second: walk_animated_maya_54
+  - first:
+      213: 7592035318586129954
+    second: walk_animated_maya_55
+  - first:
+      213: 2726820755066524128
+    second: walk_animated_maya_56
+  - first:
+      213: -516049488137304078
+    second: walk_animated_maya_57
+  - first:
+      213: 1451169610762316886
+    second: walk_animated_maya_58
+  - first:
+      213: 9112372552681471705
+    second: walk_animated_maya_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 132
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walk_animated_maya_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 688
+      alignment: 9
+      pivot: {x: 0.5257899, y: 0.4968014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d208c26c3043c6c0800000000000000
+      internalID: -4124382205641751852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_animated_maya_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 688
+      alignment: 9
+      pivot: {x: 0.5257899, y: 0.4968014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27026a6322b5a00a0800000000000000
+      internalID: -6914614075370102670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_animated_maya_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 688
+      alignment: 9
+      pivot: {x: 0.5257899, y: 0.4968014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b7e4827bfe0a6f0800000000000000
+      internalID: -675276374171288757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_animated_maya_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 688
+      alignment: 9
+      pivot: {x: 0.5257899, y: 0.4968014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db325a5519d26ebc0800000000000000
+      internalID: -3754263137136335939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_animated_maya_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 688
+      alignment: 9
+      pivot: {x: 0.5257899, y: 0.4968014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3bb22b9fbc8b740800000000000000
+      internalID: 5168104845704147928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_animated_maya_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 688
+      alignment: 9
+      pivot: {x: 0.5257899, y: 0.4968014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff034469b4d5d5e0800000000000000
+      internalID: -1885366976268529673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_animated_maya_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 688
+      alignment: 9
+      pivot: {x: 0.5257899, y: 0.4968014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9642f1451c474e0800000000000000
+      internalID: -1984748968719652410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_animated_maya_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 688
+      alignment: 9
+      pivot: {x: 0.5257899, y: 0.4968014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de79822af95fcde50800000000000000
+      internalID: 6835608400410744813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 276fdd82d96e63d47afdc168d82393cc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":256.0,"y":688.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5257899165153503,"y":0.4968014061450958},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      walk_animated_maya_0: -4124382205641751852
+      walk_animated_maya_1: -6914614075370102670
+      walk_animated_maya_2: -675276374171288757
+      walk_animated_maya_3: -3754263137136335939
+      walk_animated_maya_4: 5168104845704147928
+      walk_animated_maya_5: -1885366976268529673
+      walk_animated_maya_6: -1984748968719652410
+      walk_animated_maya_7: 6835608400410744813
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
